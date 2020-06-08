@@ -1,0 +1,8 @@
+# ignore everything
+*
+
+# now include only those files which are really relevant
+!.gitignore
+!README.md
+!install.sh
+!**/bin/postactivate
